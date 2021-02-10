@@ -16,7 +16,7 @@
 
 <details>
   <summary>Hint 4</summary>
-  What commands can you run?
+  What commands can you run? Any that a normal user shouldn't be able to?
 </details>
 
 <details>
