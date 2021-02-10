@@ -4,6 +4,6 @@ The Wombat Corp. has been working hard on their blog about Wombats, so hard in f
 
 ## Directions
 1. The attached .zip has the images to each VM used in this virtual lab
-2. The images are designed for VirtualBox
+2. Once setup, only one box should be accessible. You must compromise this box to move forward.
 3. Each flag is named proof.txt
 4. There is more than two flags, but no more than seven?
