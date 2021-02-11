@@ -1,4 +1,6 @@
-# WackyWombats
+<p align="center">
+  <img src="WOMBATCORP.png" />
+</p>
 
 The Wombat Corp. has been working hard on their blog about Wombats, so hard in fact that their team is cutting corners with security to get their blog ready to launch! This obviously isn't the best way to do things and we need to show The Wombat Corp. what vulnerabilities their network has before the website goes online. Can you find your way into each machine and collect the hidden secrets? Make sure to document each step of the way.
 
