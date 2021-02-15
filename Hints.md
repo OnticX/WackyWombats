@@ -21,5 +21,20 @@
 
 <details>
   <summary>Hint 5</summary>
-  
+  I'm sure a Serial Killer from the late 1800's could help you.
+</details>
+
+<details>
+  <summary>Hint 6</summary>
+  What kind of machine is this?
+</details>
+
+<details>
+  <summary>Hint 7</summary>
+  Is there any information on the box that could help you pivot?
+</details>
+
+<details>
+  <summary>Hint 5</summary>
+  adduser? useradd? is there another way?
 </details>
