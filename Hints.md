@@ -38,3 +38,13 @@
   <summary>Hint 8</summary>
   adduser? useradd? is there another way?
 </details>
+
+<details>
+  <summary>Hint 9</summary>
+  Can you give yourself root pivileges?
+</details>
+
+<details>
+  <summary>Hint 10</summary>
+  Make sure to grab all the proof.txt files.
+</details>
